@@ -8,7 +8,6 @@ import { useNavigation, NavigationProp } from "@react-navigation/native";
 const { width } = Dimensions.get("window");
 
 type RootStackParamList = {
-  Search: undefined;
   Weather: undefined;
 };
 
