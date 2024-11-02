@@ -7,7 +7,6 @@ import WeatherPage from "./src/screens/WeatherPage";
 type RootStackParamList = {
   Home: undefined;
   Weather: undefined;
-  Search: undefined;
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
