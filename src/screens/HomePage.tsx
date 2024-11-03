@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
   loginLink: {
-    color: "#4285F4",
+    color: "#6151C3",
     fontSize: width > 350 ? 14 : 10,
   },
   dot: {
